@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my home town bus communication web app](https://github.com/DawidJedraszczyk/jakDojade-web-app)
 
-- 🌱 I’m currently learning **javascript, vue.js**
+- 🌱 I’m currently learning **javascript, react.js**
 
 - 📫 How to reach me **dawidjedraszczyk01@gmail.com**
 
