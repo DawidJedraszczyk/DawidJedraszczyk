@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [landing page for group of bioinformaticians students.](https://github.com/DawidJedraszczyk/landingPage)
 
-- 🌱 I’m currently learning **javascript, react.js**
+- 🌱 I’m currently learning **javascript, react.js, Express**
 
 - 📫 How to reach me **dawidjedraszczyk01@gmail.com**
 
