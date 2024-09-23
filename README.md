@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Dawid</h1>
 <h3 align="center">I'm IT student from Poznan, Poland. My hobby is Frontend development.</h3>
 
-- 🔭 I’m currently working on [landing page for group of bioinformaticians students.](https://github.com/DawidJedraszczyk/landingPage)
-
-- 🌱 I’m currently learning **javascript, react.js, express.js**
 
 - 📫 How to reach me **dawidjedraszczyk01@gmail.com**
 
