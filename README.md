@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dawid</h1>
-<h3 align="center">I'm IT student from Poznan, Poland. My hobby is Frontend development.</h3>
+<h3 align="center">I'm IT student from Poznan, Poland.</h3>
 
 
 - 📫 How to reach me **dawidjedraszczyk01@gmail.com**
