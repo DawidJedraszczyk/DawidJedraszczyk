@@ -4,8 +4,9 @@
 </p>
 <hr/>
 
+✉️  You can shoot me an email at **dawidjedraszczyk01@gmail.com**! I'll try to respond as soon as I can.
+📄  Please have a look at my [Résumé](https://drive.google.com/file/d/1egDPo-3gb9o-v7d4LEswN3JVKIKm8k81/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-- 📫 How to reach me **dawidjedraszczyk01@gmail.com**
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,7 +28,6 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
